@@ -11,6 +11,15 @@ Full-stack developer focused on developer tooling, automation and productivity s
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
+## Projects
+
+| Repository | What it is |
+| --- | --- |
+| [tiny-cli-toolkit](https://github.com/seven07-11/tiny-cli-toolkit) | Zero-dependency Node.js CLI utilities: JSON formatter, size report, duplicate finder |
+| [markdown-toc-cli](https://github.com/seven07-11/markdown-toc-cli) | Pure-Python tool that generates and verifies Markdown tables of contents |
+
+Both projects ship with a full test suite and run in CI.
+
 ## What I'm up to
 
 - 🔭 Building small, focused CLI tools for everyday workflows
