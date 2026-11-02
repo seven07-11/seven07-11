@@ -15,10 +15,12 @@ Full-stack developer focused on developer tooling, automation and productivity s
 
 | Repository | What it is |
 | --- | --- |
-| [tiny-cli-toolkit](https://github.com/seven07-11/tiny-cli-toolkit) | Zero-dependency Node.js CLI utilities: JSON formatter, size report, duplicate finder |
-| [markdown-toc-cli](https://github.com/seven07-11/markdown-toc-cli) | Pure-Python tool that generates and verifies Markdown tables of contents |
 
-Both projects ship with a full test suite and run in CI.
+| Repository | What it is |
+| --- | --- |
+| [tiny-cli-toolkit](https://github.com/seven07-11/tiny-cli-toolkit) | Zero-dependency Node.js CLI utilities: JSON formatter, size report, duplicate finder, line counter |
+| [markdown-toc-cli](https://github.com/seven07-11/markdown-toc-cli) | Pure-Python tool that generates and verifies Markdown tables of contents |
+| [semver-py](https://github.com/seven07-11/semver-py) | Semantic version parsing and comparison with the standard library only |
 
 ## What I'm up to
 
